@@ -24,3 +24,4 @@ steps:
   inputs:
     PathtoPublish: 'sampleapp/dist'
     ArtifactName: 'dist'
+    publishLocation: 'Container'
