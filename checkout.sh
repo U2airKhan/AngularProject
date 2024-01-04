@@ -16,4 +16,6 @@ git remote add $new_origin_remote $new_origin_url
 git fetch --prune $existing_remote_url '+refs/heads/*:refs/remotes/origin/*'
 
 # Push all branches to the new origin (mirror)
+# Push all branches to the new origin (mirror)
+# Push all branches to the new origin (mirror)
 git push $new_origin_remote --mirror
